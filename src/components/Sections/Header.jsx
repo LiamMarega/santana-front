@@ -38,9 +38,6 @@ export default function Header() {
                 <br />
                 <em>La alternativa, ecológica y efectiva para cuidar de tu belleza y bienestar.</em>
               </p>
-              <p className='font13 orangeColor textRight' style={{ marginTop: "10px" }}>
-                Ralph Waldo Emerson
-              </p>
             </div>
           </QuoteWrapper>
           <DotsWrapper>
